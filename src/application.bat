@@ -1,4 +1,4 @@
-### application.bat - 2016 - Gregory Joerger ###
+### application.bat - 2016 - Eric Peresse & Arnold Bouyomeka ###
 version = "2"
 build_hour = "11h00"
 
